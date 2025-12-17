@@ -47,7 +47,7 @@ Frameworks:     MITRE ATT&CK | NIST | ISO 27001
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/gokulsathiyamurthy088/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulsathiyamurthy088/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sathiyamurthygokul@gmail.com)
 
 ---
